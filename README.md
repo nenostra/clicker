@@ -6,7 +6,7 @@ To try:
 
 -Open command line.
 
--git clone https://github.com/nenostra/clicker.git.
+-git clone https://github.com/nenostra/clicker.git
 
 -cd clicker.
 
